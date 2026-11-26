@@ -3,7 +3,7 @@
 - **Mã đề:** 07
 - **Họ tên: Nguyễn Quang Thành**
 - **Lớp:CNTT2**
-- **Link repository Pha1:**
+- **Link repository Pha1: https://github.com/Promting-AI/HCM-KS26-CNTT2_PromtAI_H02.git**
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
